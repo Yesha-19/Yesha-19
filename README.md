@@ -38,9 +38,11 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📊 GitHub Performance
+
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Yesha-19&theme=dark&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yesha-19&theme=dark&layout=compact" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Yesha-19&theme=dark&show_icons=true" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yesha-19&theme=dark&layout=compact" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yesha-19&theme=dark" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
