@@ -1,10 +1,8 @@
 # Yesha Katrodiya 👋
 
-<p align="left">
-  <a href="https://linkedin.com/in/yesha-katrodiya/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Yesha-19"><img src="https://img.shields.io/github/followers/Yesha-19?label=Follow&style=social" alt="GitHub"></a>
-</p>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yesha-katrodiya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yeshakatrodiya988@gmail.com) 
 ---
 
 ## 💫 About Me
